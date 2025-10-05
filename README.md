@@ -8,7 +8,7 @@ From struggling with Java to building cybersecurity-focused projects, my journey
 
 ---
 
-## 🛠️ Skills & Tools##
+## 🛠️ Skills & Tools ##
 - **Languages:** 🐍 Python, ☕ Java, ⚡ PowerShell, 📂 Active Directory  
 - **Security Tools:** 🔍 Wireshark, 🌐 Packet Tracer, 📊 Splunk  
 - **Platforms:** 🖥 Windows, 🐧 Linux, ☁ Azure
