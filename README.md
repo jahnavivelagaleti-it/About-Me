@@ -1,6 +1,6 @@
 # About-Me
 # 👋 Hi, I'm Jahnavi V!
-From struggling to code in Java to building cybersecurity focused projects, my journey has been all about curiosity, learning and hands-on experimentation. 
+From struggling with Java to building cybersecurity-focused projects, my journey is driven by curiosity, learning, and hands-on experimentation.
 
 💻 **Current Role:** End User Support Analyst @ Datacom  
 🔐 **Passions:** Ethical hacking, security automation, threat detection
@@ -8,17 +8,18 @@ From struggling to code in Java to building cybersecurity focused projects, my j
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, Java, PowerShell, Active Directory  
-- **Security Tools:** Wireshark, Packet Tracer, Splunk  
-- **Platforms:** Windows, Linux, Azure
+## 🛠️ Skills & Tools##
+- **Languages:** 🐍 Python, ☕ Java, ⚡ PowerShell, 📂 Active Directory  
+- **Security Tools:** 🔍 Wireshark, 🌐 Packet Tracer, 📊 Splunk  
+- **Platforms:** 🖥 Windows, 🐧 Linux, ☁ Azure
+
 
 ---
 
 ## 🚀 Projects & Highlights
-- **Application & Analysis of LLMs in Cybersecurity** – University research project exploring AI for threat detection.  
-- **Cybersecurity Management in Practice** – real-world risk assessment and threat modeling exercise, identifying critical vulnerabilities for a simulated organisation.
-- **Automation Scripts & Security Tools** – Practical scripts for log analysis and threat hunting.  
+- **Application & Analysis of LLMs in Cybersecurity** – University research exploring AI for threat detection.  
+- **Cybersecurity Management in Practice** – Risk assessment and threat modeling exercise identifying critical vulnerabilities.  
+- **Automation Scripts & Security Tools** – Scripts for log analysis and threat hunting.
 
 ---
 
