@@ -1,6 +1,6 @@
 # About-Me
 # 👋 Hi, I'm Jahnavi V!
-From struggling with Java to building cybersecurity-focused projects, my journey is driven by curiosity, learning, and hands-on experimentation.
+From struggling with Java to building cybersecurity-focused projects, my journey is driven by curiosity, learning and hands-on experimentation.
 
 💻 **Current Role:** End User Support Analyst @ Datacom  
 🔐 **Passions:** Ethical hacking, security automation, threat detection
